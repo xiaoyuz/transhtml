@@ -1,0 +1,15 @@
+target/
+release.properties
+dependency-reduced-pom.xml
+node_modules
+.gradle/
+build/
+out/
+
+.idea/
+
+.DS_Store
+*.iws
+*.iml
+*.ipr
+*.swp
